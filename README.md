@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ranim Saidi</h1>
-<h3 align="center">I am a tunisian IT Student interested in Computer Vision and Data Engineering application</h3>
+<h3 align="center">I am a tunisian IT Student interested in Computer Vision and Data Engineering applications.</h3>
 
 
 
