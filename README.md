@@ -3,7 +3,7 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranimsaidi" alt="ranimsaidi" /></a> </p>
+
 
 - 🔭 I’m currently **a Data Engineering intern at Wall Street Football**
 
