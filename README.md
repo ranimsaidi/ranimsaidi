@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently **a Data Engineering intern at Wall Street Football**
+- 🔭 I’m currently **a Computer Vision Intern at MPI-CBG, Dresden, Germany**
 
 - 🌱 I’m currently learning **Data Pipeling and Orchestration**
 
