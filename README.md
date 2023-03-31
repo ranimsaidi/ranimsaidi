@@ -7,10 +7,7 @@
 
 - 🔭 I’m currently **a Computer Vision Intern at MPI-CBG, Dresden, Germany**
 
-- 🌱 I’m currently learning **Data Pipeling and Orchestration**
-
-- 💬 Ask me about **TensorFlow, Data Visualization and Image Processing**
-
+-
 - 📫 How to reach me **ranim.saidi@mailbox.tu-dresden.de**
 
 <h3 align="left">Connect with me:</h3>
