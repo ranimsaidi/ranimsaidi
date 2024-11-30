@@ -5,8 +5,8 @@
 
 
 
-- 🔭 I’m currently **a Computer Vision Intern at MPI-CBG, Dresden, Germany**
-- 📫 How to reach me **ranim.saidi@mailbox.tu-dresden.de**
+- 🔭 I’m **Data Engineer**
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
